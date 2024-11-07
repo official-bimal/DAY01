@@ -1,0 +1,24 @@
+/* 
+Box Model in CSS
+Height
+Width
+Border 
+Padding
+Margin
+*/
+
+div {
+    height: 200px;
+    width: 400px;
+    color: white;
+    background-color: blue;
+    border: 2px;
+    border-color: red ;
+    border-style: solid;
+    border-radius: 30px;
+    padding: 20px;
+    margin: 20px;
+
+    
+}
+
